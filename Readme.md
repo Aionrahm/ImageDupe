@@ -1,3 +1,3 @@
-Run script with "py main.py"
-Select folder
-Let it run
+Run script with "py main.py" <br>
+Select folder <br>
+Let it run <br>
